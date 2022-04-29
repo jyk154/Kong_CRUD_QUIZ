@@ -1,0 +1,26 @@
+{
+  "name": "kong_crud_quiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jyk154/Kong_CRUD_QUIZ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jyk154/Kong_CRUD_QUIZ/issues"
+  },
+  "homepage": "https://github.com/jyk154/Kong_CRUD_QUIZ#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3"
+  }
+}
